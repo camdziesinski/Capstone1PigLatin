@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Capstone1PigLatin/1.0.0": {
+        "runtime": {
+          "Capstone1PigLatin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capstone1PigLatin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
